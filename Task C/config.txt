@@ -1,0 +1,13 @@
+HOME=/u/soc/abc
+HOST=lawson
+HOSTTYPE=sun4
+LOGNAME=abc
+OSTYPE=solaris
+PATH=/usr/dt/bin:/usr/openwin/bin:/bin:.
+PS1=$
+PS2=>
+SHELL=/usr/bin/tcsh
+TZ=Australia/Tasmania
+USER=abc
+VENDOR=sun
+EDITOR=joe
